@@ -9,7 +9,8 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-All variables below are averaged by the activity variable.
+All variables below are averaged by subject and activity variable.
+Subject represents the user.
 Activity variable represents the activity of the user.
 
 tBodyAcc-XYZ
